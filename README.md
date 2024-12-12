@@ -1,4 +1,4 @@
-# Irsyad Jazli
+ # Irsyad Jazli
 
 ## **Contact Information**
 
@@ -49,4 +49,5 @@
   - Collaborated closely with data science mentors to enhance model results
   - Implemented improvements based on mentor feedback to meet end-user needs
 
-### 2. Part-time Logistic/Customer Crew, Ichiban Sushi, Jan 2022 - Now
+### 2. Part-time Logistic/Customer Support, KSFBeauty, Jan 2022 - Now
+
