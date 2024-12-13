@@ -24,7 +24,7 @@
 
 - **Role**: Co-Leader in a group of four
 - **Description**: Developed a big data pipeline to identify the impact of employee benefits on job satisfaction and retention. The model handled batch data streaming and accurately identified 80% of the positive sentiments.
-- **Outcome**: Presented the model to teachers and received their positive feedback. The project achieved an **A grade**.
+- **Outcome**: Presented the model to teachers and received their positive feedback. 
 
 ### 2. Visual Analytics Project, 2023
 
