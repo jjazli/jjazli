@@ -43,7 +43,7 @@
 ## **Work Experience**
 
 ### 1. Part-time Logistic/Customer Support, KSFBeauty, Jan 2022 - Now
-Logistics:
+**Logistics**:
 -Manage inventory, track shipments, and coordinate order fulfillment.
 -Prepare shipping documents and maintain accurate stock records.
 -Organize warehouse activities and resolve delivery issues.
@@ -54,7 +54,7 @@ Customer Support:
 
 ### 2. Data Logistics/Supply Intern, Sabena Technics, Sep 2023 to Nov 2023
 
-- **Description**: Worked on a Natural Language Processing Project involving Chinese documents.
+- **Description**: Worked on a updating and create sales dashboard based on inventory. 
 - **Responsibilities**:
   - Conducted in-depth data exploration and cleaning
   - Performed keyword extraction and association rule mining on the given dataset
